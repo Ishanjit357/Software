@@ -1,0 +1,5 @@
+2025-03-04 10:11:12 INFO: service started
+2025-03-04 10:11:14 WARN: response took longer than expected
+2025-03-04 10:11:15 ERROR: database connection failed
+2025-03-04 10:11:16 ERROR: database connection failed
+background worker ready
